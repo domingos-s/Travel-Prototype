@@ -2,6 +2,8 @@
 
 Sketch-inspired Next.js prototype built from the provided travel app screenshot.
 
+![Travel Prototype Sketch](test.png)
+
 ## Run
 
 ```bash
@@ -24,3 +26,4 @@ npm run build
 - Data is mocked under `lib/mock/`.
 - API layer is stubbed in `lib/api/`.
 - Use the `State` selector in the UI to view loading/empty/error behavior.
+
