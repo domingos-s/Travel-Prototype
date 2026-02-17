@@ -10,7 +10,7 @@
     "test": "node -e \"console.log('No automated tests yet for this prototype.'); process.exit(0)\""
   },
   "dependencies": {
-    "next": "15.0.0",
+    "next": "15.0.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
